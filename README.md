@@ -21,7 +21,7 @@ $ npm run demo                  # Run webpack dev server
 
 ---
 
-# manager-component-name
+# component-name
 
 Description of component and any special notes
 
